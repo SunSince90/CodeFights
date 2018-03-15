@@ -1,3 +1,7 @@
+//--------------------------------------------------
+//  Code Fights: Elections Winners 
+//--------------------------------------------------
+
 function electionsWinners(votes, k) 
 {
     const winner = Math.max(...votes),
