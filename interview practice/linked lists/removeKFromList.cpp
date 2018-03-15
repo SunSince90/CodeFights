@@ -2,7 +2,8 @@
 //  Code Fights: removeKFromList
 //--------------------------------------------------
 
-/*  NOTE: I did not add a main function. This is just the function as provided by code fights. */
+/*  NOTE: I did not add a main function. This is just the function as provided by code fights.
+    Creating a main and the tests is straight forward anyway. */
 
 // Definition for singly-linked list:
 // template<typename T>
