@@ -1,3 +1,7 @@
+//--------------------------------------------------
+//  Code Fights: digitsProduct
+//--------------------------------------------------
+
 function digitsProduct(product) 
 {  
     if(product == 0) return 10;

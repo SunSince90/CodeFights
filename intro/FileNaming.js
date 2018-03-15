@@ -1,3 +1,7 @@
+//--------------------------------------------------
+//  Code Fights: File Naming Problem
+//--------------------------------------------------
+
 function fileNaming(names) 
 {    
     const files = new Set(),
